@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 jaka_zu3_URDF.urdf
+jaka_rviz/
